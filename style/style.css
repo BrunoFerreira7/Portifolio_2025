@@ -10,7 +10,7 @@
     --shadow: 0 10px 30px rgba(0,0,0,.25);
   }
 @media (prefers-color-scheme: dark){
-    :root{ --bg:#f6f7fb; --panel:#ffffff; --muted:#475569; --text:#0f172a; --card:#ffffff; }
+    :root{ --bg:#0b1220; --panel:#0f172a; --muted:#94a3b8; --text:#e2e8f0; --card:#111827; }
 }
 *{
     box-sizing:border-box
